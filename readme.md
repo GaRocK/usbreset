@@ -1,3 +1,9 @@
+## This repo is discontinued
+
+This repo was discontinued and I discourage you to use if there's a better fork.
+
+This repo can be deleted anytime so if you like it, fork it and polish it before it's gone.
+
 # Usb Reset
 A simple program to reset usb devices in linux.
 
